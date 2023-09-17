@@ -23,21 +23,33 @@
 **Rubrica de acréscimo de pontos:**
 
 Entregar o tutorial: D (4 pontos) --> ✅
+
 Conquistando mais pontos:
+
 a. Mecânica de Tempo (+2) --> ✅
+
 b. Inimigos (mesmo se sejam formas básicas) (+2) --> ✅
+
 c. Visual (+2) --> ✅
+
 Adicionar música ao seu jogo (+1) --> ✅
+
 Adicionar Audio Fx no seu jogo (+1) --> 0.5✅
 
 **Rubrica de desconto de pontos:**
 
 Sem Menu Inicial (-2) --> ✅ Jogo possui menu inicial.
+
 Sem tratamento de dead-end (-2) --> ✅ Jogo possui tratamento de dead-end.
+
 Página Itch.io mal construída (-1) --> ✅ Página bem construída e detalhada.
+
 Entrega com atraso (-2/dia) --> ✅ Entrega feita no prazo.
+
 Repositório não estava público (-1) --> ✅ Repositório está público.
+
 Jogo não está em WebGL (-2) --> ✅ Jogo está em WebGL.
+
 Plágio (-10) --> ✅ Jogo não possui plágio e os créditos aos conteúdos consultados estão abaixo.
 
 ---
