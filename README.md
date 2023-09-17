@@ -56,12 +56,12 @@ Plágio (-10) --> ✅ Jogo não possui plágio e os créditos aos conteúdos con
 
 **Créditos:** Para o desenvolvimento do jogo acima, foi de fundamental importância a consulta a outros tutoriais, códigos e conteúdos, os quais estão referenciados a seguir:
 
-1. [Unity Roll-a-Ball Project: ](https://learn.unity.com/project/roll-a-ball?uv=2022.3)
-2. [Unity Tutorial: ](https://www.youtube.com/watch?v=MGIBLPIz4oM)
-3. [Game over screen: ](https://www.youtube.com/watch?v=K4uOjb5p3Io)
-4. [Contador temporal: ](https://www.youtube.com/watch?v=wYzcMV1dIfg)
-5. [Sound Effects in Unity: ](https://www.youtube.com/watch?v=mvaUho_a-q4)
-6. [Criando inimigos no Unity: ](https://youtu.be/__wAQOSqIaw?si=0gruQrsB6oW_H5IS)
-7. [Menu Principal em Unity: ](https://www.youtube.com/watch?v=yIaAE9bLxXI)
-8. [Suspens Game Music: ](https://www.youtube.com/watch?v=_r2o3NdsfOA)
-9. [Ele Gosta: ](https://www.youtube.com/watch?v=GzY9-ZaBaQE)
+1. [Unity Roll-a-Ball Project](https://learn.unity.com/project/roll-a-ball?uv=2022.3)
+2. [Unity Tutorial](https://www.youtube.com/watch?v=MGIBLPIz4oM)
+3. [Game over screen](https://www.youtube.com/watch?v=K4uOjb5p3Io)
+4. [Contador temporal](https://www.youtube.com/watch?v=wYzcMV1dIfg)
+5. [Sound Effects in Unity](https://www.youtube.com/watch?v=mvaUho_a-q4)
+6. [Criando inimigos no Unity](https://youtu.be/__wAQOSqIaw?si=0gruQrsB6oW_H5IS)
+7. [Menu Principal em Unity](https://www.youtube.com/watch?v=yIaAE9bLxXI)
+8. [Suspens Game Music](https://www.youtube.com/watch?v=_r2o3NdsfOA)
+9. [Ele Gosta](https://www.youtube.com/watch?v=GzY9-ZaBaQE)
